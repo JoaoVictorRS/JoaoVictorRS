@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @JoaoVictorRS (João Victor Rodrigues de Souza)
-- 👀 I’m interested in world news, games and meeting new people
-- 🌱 I’m currently learning HOW GITHUB WORKS
-- 💞️ I’m looking to collaborate on something that will improve my knowledge
+- 👀 I’m interested in tech geek stuff and memes obviously
+- 🌱 I’m currently learning Python and Web Dev basics
+- 💞️ I’m looking to collaborate with people who are also starting
 - 📫 How to reach me joaovictoremaildecontato@gmail.com(then we can communicate better)
-- I don't know what else I can say, I think that's enough
+- I don't know what else can I say, I think that's enough 😅
 - Ah yeah, Im from Brazil, come visit us!!
 
 <!---
