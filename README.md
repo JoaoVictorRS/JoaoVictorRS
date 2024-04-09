@@ -1,19 +1,24 @@
-# Oi tudo bem? Meu nome é João Victor Rodrigues de Souza 👋
+# Bem-vindo ao meu perfil! 👋
 
-> Quem sou?
+Olá! Meu nome é João Victor e estou atualmente cursando Análise e Desenvolvimento de Sistemas no IESB. Anteriormente, concluí o curso técnico em Informática na ETC (Escola Técnica de Ceilândia). Com 19 anos de idade, tenho me dedicado à área de tecnologia desde os 16 anos, sempre buscando aprimorar meus conhecimentos e habilidades. 🚀
 
-* Sou estudante do IESB e também já cursei Técnico em Informatica na ETC (Escola Técnica de Ceilândia). <br>
-* Tenho 19 anos e desde os 16 venho aprimorando meus conhecimentos na área (sim 🤓). <br>
-* Me adapto rapidamente a novas situações e gosto de desafios 🤯. <br>
-* Gosto de jogar 🎮, meus gêneros favoritos são FPS e RPG, sei uns acordes no violão 🎸 e também gosto de me manter em forma 💪. <br>
+## Sobre Mim
 
-> O que sei fazer?
+- 🎓 Atualmente estudante do IESB.
+- 💻 Formação em Técnico em Informática.
+- 🏋️‍♂️ Adoro novos desafios.
+- 🎮 Amante de jogos, especialmente FPS e RPG.
+- 🎸 Sei tocar algumas coisas no violão.
+- 💪 Comprometido com a saúde e o bem-estar, mantenho-me em forma.
 
-* Desenvolvimento Web
-* Desenvolvimento Mobile com React Native
+
+## O que sei fazer?
+
+* Desenvolvimento Front-End: HTML, CSS, Bootstrap e JS
+* Desenvolvimento Back-End: Node.js e PHP
+* Desenvolvimento Mobile: React Native
+* Banco de dados: MySQL, PHPmyAdmin e MongoDB
 * Levantamento de Requisitos
-* Básico de Banco de dados
-* No momento, estou focado em aprender assuntos relacionados a desenvolvimento. <br>
 
 ## Linguagens & Ferramentas
 
@@ -36,6 +41,7 @@
 > Banco de Dados
 <div style="inline">
   <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+  <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-plain-wordmark.svg" />
 </div>
 
 > Ferramentas
@@ -49,6 +55,20 @@
   <a href="https://github.com/JoaoVictorRS">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoVictorRS&layout=compact&size_weight=0.5&count_weight=0.5&theme=dracula"/></a>  
 </div>
+
+## Contato
+
+Gostaria de entrar em contato? Você pode me encontrar nas seguintes plataformas:
+
+<div style="inline">
+  <a href='https://www.linkedin.com/in/joão-victor-rodrigues-de-souza-39233221b/'>
+    <img height='50px' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />
+  </a>
+</div>
+
+[E-mail](mailto:joaovictoremaildecontato@gmail.com)
+
+Não hesite em me enviar uma mensagem! Estou sempre aberto para conversar e colaborar em projetos interessantes. 😊
 
 <!---
 JoaoVictorRS/JoaoVictorRS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
