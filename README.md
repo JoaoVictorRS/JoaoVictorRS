@@ -1,6 +1,6 @@
 # Bem-vindo ao meu perfil! 👋
 
-Olá! Meu nome é João Victor e estou atualmente cursando Análise e Desenvolvimento de Sistemas no IESB. Anteriormente, concluí o curso técnico em Informática na ETC (Escola Técnica de Ceilândia). Com 19 anos de idade, tenho me dedicado à área de tecnologia desde os 16 anos, sempre buscando aprimorar meus conhecimentos e habilidades. 🚀
+Olá! Meu nome é João Victor e estou atualmente cursando Análise e Desenvolvimento de Sistemas no IESB. Anteriormente, concluí o curso técnico em Informática na ETC (Escola Técnica de Ceilândia). Desde os 16 anos tenho me dedicado à área de tecnologia, sempre buscando aprimorar meus conhecimentos e habilidades. 🚀
 
 ## Sobre Mim
 
